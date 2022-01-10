@@ -1,6 +1,9 @@
 # a-backend-proj
 write api to query data from mysql,after building nodejs platform.
 用nodejs写的a-umi-proj的配套后台
+
+### notice
+- 使用express，数据从sql中获取，非mock
 ### how to start
 > change host information.
 > search keyword:createConnection
