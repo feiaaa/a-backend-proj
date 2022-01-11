@@ -18,4 +18,7 @@ DELETE http://localhost:3006/user/5
 
 ```
 ### reference
-[基于Koa(nodejs框架)对json文件进行增删改查](https://blog.csdn.net/weixin_34336292/article/details/88611230)
+- [基于Koa(nodejs框架)对json文件进行增删改查](https://blog.csdn.net/weixin_34336292/article/details/88611230)
+
+- [深入Node.js的模块加载机制，手写require函数](https://segmentfault.com/a/1190000023828613)
+- [手写require函数代码](https://github.com/dennis-jiang/Front-End-Knowledges/blob/master/Examples/Node.js/Module/MyModule/index.js)
